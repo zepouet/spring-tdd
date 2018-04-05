@@ -65,9 +65,6 @@ ainsi que la nouvelle URI pour accéder au gain.
 Le gain s'obtient avec un `Get` sur la route `/grille/{id}/gain`.
 Le résultat du gain est évidemment un entier mais aussi la décomposition en pièces.
 
-Pour réaliser ceci, nous allons mocker avec WireMock la partie monna
+Pour réaliser ceci, nous allons mocker avec WireMock la partie monnayer
 
 
-## Mocker une API externe
-
-Désormais on va vouloir 
