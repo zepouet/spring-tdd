@@ -1,0 +1,1 @@
+INSERT into PUBLIC.player VALUES ('n.muller@treeptik.fr', 'Nicolas Muller', 1);
